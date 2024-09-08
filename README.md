@@ -2,6 +2,9 @@
 
 This project analyzes Shopify sales data to gain insights into sales trends, customer behavior, and overall performance of the store. It uses the Shopify API to extract sales data, performs data processing and cleaning in Python, stores the data in PostgreSQL, and visualizes key metrics with Tableau.
 
+![image](https://github.com/user-attachments/assets/1bfabe8d-ae73-4aa9-9725-c5bb87c8817c)
+
+
 ## Link to the Tableau Dashboard
 https://public.tableau.com/app/profile/eduardo.rodriguez6357/viz/ShopifySalesAnalysisDashboard/SalesAnalysisDashboard
 
